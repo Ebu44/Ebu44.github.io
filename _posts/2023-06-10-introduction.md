@@ -14,3 +14,5 @@ I'm Ebubekir (but you can call me Ebu because it is easy to say). I'm a Computer
 ## What does this website contain?
 
 I am working on developments in Web Development, Data Science and Machine Learning. I gather information from various sources and write blog posts to create resources for myself and others. So, if you have any questions or issues, feel free to email me.
+
+I am always open to your advice and ideas, so don't hesitate to send me an email.
