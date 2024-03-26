@@ -2,8 +2,8 @@
 title: Django ArrayField
 author: Ebu
 date: 2023-06-20 16:00:00 +0800
-categories: [Django, Python]
-tags: [Django, Python, ArrayField]
+categories: [Python, Django]
+tags: [Python, Django, ArrayField]
 pin: true
 ---
 
