@@ -1,7 +1,7 @@
 ---
 title: Django Aggregation
 author: Ebu
-date: 2023-06-30 16:00:00 +0800
+date: 2023-06-29 16:00:00 +0800
 categories: [Python, Django]
 tags: [Python, Django, Aggregation]
 pin: true
